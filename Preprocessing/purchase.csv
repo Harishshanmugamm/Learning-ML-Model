@@ -1,0 +1,6 @@
+age,gender,income,education,occupation,marital_status,purchased
+25,Male,35000,Bachelors,Engineer,Single,Yes
+35,Female,50000,Masters,Doctor,Married,Yes
+45,Male,60000,PhD,Professor,Married,No
+30,Female,45000,Bachelors,Artist,Single,Yes
+50,Male,70000,Masters,Doctor,Married,No
